@@ -1,0 +1,15 @@
+CLL;Turn into a linked list;4;1
+DLL;Recursive display;5;1
+LLL;Recursive display;5;1
+CLL;Remove all extras nodes;2;3
+CLL;Add nodes to list;5;1
+DLL;Insert at tail;4;1
+DLL;Remove last 2 nodes;3;2
+LLL;Recursive Math Functions;4;1
+LLL;Add at end of list;3;2
+CLL;Remove all odds and return average;1;3
+CLL;Remove all even numbers and return sum;3;2
+DLL;Remove all odds and return average;2;3
+DLL;Remove every other node;1;2
+LLL;Remove all odds and return number of 1s;1;3
+LLL;Recursively remove all nodes;2;2
